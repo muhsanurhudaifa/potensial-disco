@@ -1,0 +1,15 @@
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\submission.csproj.AssemblyReference.cache
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\submission.AssemblyInfoInputs.cache
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\submission.AssemblyInfo.cs
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\submission.csproj.CoreCompileInputs.cache
+C:\Users\ellipsis\Desktop\submission\bin\Debug\net7.0\submission.exe
+C:\Users\ellipsis\Desktop\submission\bin\Debug\net7.0\submission.deps.json
+C:\Users\ellipsis\Desktop\submission\bin\Debug\net7.0\submission.runtimeconfig.json
+C:\Users\ellipsis\Desktop\submission\bin\Debug\net7.0\submission.dll
+C:\Users\ellipsis\Desktop\submission\bin\Debug\net7.0\submission.pdb
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\submission.dll
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\refint\submission.dll
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\submission.pdb
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\submission.genruntimeconfig.cache
+C:\Users\ellipsis\Desktop\submission\obj\Debug\net7.0\ref\submission.dll
